@@ -1,8 +1,4 @@
-<HTML>
-<TITLE>
-Test
-</TITLE>
-<BODY>
-Hello world
-</BODY>
-</HTML>
+<html>
+  <title> TEST</title>
+  <body> Hello World </body>
+</html>
